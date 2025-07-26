@@ -187,4 +187,3 @@ The application can be deployed using:
 - Secure headers
 - Data encryption
 
-For more detailed documentation, please visit our [Wiki](https://github.com/yourusername/mern-ecommerce/wiki)
